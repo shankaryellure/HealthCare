@@ -4,6 +4,6 @@ home. User can order medicines online and precaution and related healthcare arti
 
 #How to develop the project?
 Download the android studio from https://developer.android.com/ (download for free).
-Open the studio and install related SDK, R, API and Java option at the beginning of installation.
+Open the studio setup basic information and choose Java option at the beginning of installation. Once it is done it load studio then choose additional library related SDK, R, API.
 
 
