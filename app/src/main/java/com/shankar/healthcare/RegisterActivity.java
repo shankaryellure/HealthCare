@@ -25,7 +25,7 @@ public class RegisterActivity extends AppCompatActivity {
         edConfirm = findViewById(R.id.editTextAppFees);
 
 
-        btn = findViewById(R.id.buttonAppBack);
+        btn = findViewById(R.id.buttonRegister);
         tv = findViewById(R.id.textViewExistingUser);
 
         tv.setOnClickListener(new View.OnClickListener() {
