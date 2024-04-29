@@ -34,7 +34,7 @@ Before setting up the project, ensure that you have a basic understanding of And
 
 #### **Configure Android Studio:**
 
-- After cloning the project or importing it into Android Studio, the IDE may request you to download the necessary SDKs and APIs. Proceed with the recommendations.
+- After cloning the project or importing it into Android Studio, the IDE may request you to download the necessary SDKs and APIs(Download R and API30). Proceed with the recommendations.
 
 #### **Set Up an Emulator:**
 - Go to the AVD Manager by clicking on the "AVD Manager" icon in the toolbar.
