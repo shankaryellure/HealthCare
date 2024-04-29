@@ -20,6 +20,8 @@ Before setting up the project, ensure that you have a basic understanding of And
 #### **Clone the Repository:**
 
 - If you have git installed on your machine, you can clone the repository directly using the following command in your terminal or command prompt:
+- git clone https://github.com/shankaryellure/HealthCare.git
+- After cloning, open Android Studio, go to `File -> Open...`, and navigate to the directory where you cloned the project to open it.
 
 #### **Configure Android Studio:**
 
