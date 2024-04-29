@@ -17,14 +17,15 @@ Before setting up the project, ensure that you have a basic understanding of And
 - Visit https://developer.android.com/studio to download Android Studio for free.
 - Run the installer and follow the setup wizard to install Android Studio, opting for Java as the primary language during the setup.
 
+#### **Clone the Repository:**
+
+- If you have git installed on your machine, you can clone the repository directly using the following command in your terminal or command prompt:
+
 #### **Configure Android Studio:**
 
-- **Launch Android Studio.**
-- Import the _Healthcare Companion App_ project by selecting "Open an Existing Project".
-- Android Studio may request you to download the necessary SDKs and APIs. Proceed with the recommendations.
+- After cloning the project or importing it into Android Studio, the IDE may request you to download the necessary SDKs and APIs. Proceed with the recommendations.
 
 #### **Set Up an Emulator:**
-
 - Go to the AVD Manager by clicking on the "AVD Manager" icon in the toolbar.
 - Create a new Virtual Device by selecting a suitable device definition and system image.
 - Once created, start the emulator by clicking on the green play button.
