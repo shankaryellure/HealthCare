@@ -17,11 +17,20 @@ Before setting up the project, ensure that you have a basic understanding of And
 - Visit https://developer.android.com/studio to download Android Studio for free.
 - Run the installer and follow the setup wizard to install Android Studio, opting for Java as the primary language during the setup.
 
+
 #### **Clone the Repository:**
 
 - If you have git installed on your machine, you can clone the repository directly using the following command in your terminal or command prompt:
 - git clone https://github.com/shankaryellure/HealthCare.git
 - After cloning, open Android Studio, go to `File -> Open...`, and navigate to the directory where you cloned the project to open it.
+
+- #### **Download ZIP (If you do not have Git):**
+
+- If you don't have Git, you can download the project as a ZIP file by visiting the following URL:
+- https://github.com/shankaryellure/HealthCare
+- Click on the `Code` button and select `Download ZIP`.
+- Once downloaded, unzip the file and open Android Studio.
+- In Android Studio, go to `File -> Open...`, then navigate to the unzipped project folder and select it to open as an existing project.
 
 #### **Configure Android Studio:**
 
