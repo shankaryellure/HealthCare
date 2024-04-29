@@ -8,7 +8,7 @@ The _Healthcare Companion App_ is an Android application designed to facilitate 
 
 Before setting up the project, ensure that you have a basic understanding of Android Studio and Java. If you are new to Android development, consider the following resources:
 
-- _Android Development for Beginners https://www.youtube.com/watch?v=JSwRqOZo2Y8
+- _Android Development for Beginners_ https://www.youtube.com/watch?v=JSwRqOZo2Y8
 - _Java Programming Basics_
 
 ### **Installation**
